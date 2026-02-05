@@ -59,7 +59,7 @@ ProgressPulse is a web-based educational platform that connects administrators, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nousheen47/ProgressPulse.git
+git clone https://github.com/pranitha74/ProgressPulse.git
 cd ProgressPulse
 ```
 
@@ -150,21 +150,3 @@ If you use PHPMailer, either:
 - Keep PHPMailer and PHP updated for security.
 
 ---
-
-## License
-
-This project is open source. Use and modify according to your needs.
-
----
-
-## Contributing
-
-1. Fork the repository.
-2. Create a branch for your feature or fix.
-3. Submit a pull request to [Nousheen47/ProgressPulse](https://github.com/Nousheen47/ProgressPulse).
-
----
-
-## Repository
-
-**GitHub:** [https://github.com/Nousheen47/ProgressPulse](https://github.com/Nousheen47/ProgressPulse)
